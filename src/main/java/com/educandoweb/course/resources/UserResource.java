@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.educandoweb.course.entities.User;
-
+//@ are mapping
 @RestController
 @RequestMapping(value = "/Users")
 public class UserResource {
